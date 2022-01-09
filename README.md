@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakirbhattt" alt="shakirbhattt" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [www.github.com/shakirbhattt](www.github.com/shakirbhattt)
+- 👨‍💻 All of my projects are available at : [www.github.com/shakirbhattt](www.github.com/shakirbhattt)
 
-- 💬 Ask me about **ClOUD (AWS, AZURE) , DEVOPS(JENKIS, KUBERNETES, DOCKER, NAGIOS, SELENIUM) , VERSION CONTROL (GIT) AND MORE.**
+- 💬 Ask me about : **CLOUD (AWS, AZURE) , DEVOPS(JENKIS, KUBERNETES, DOCKER, NAGIOS, SELENIUM) , VERSION CONTROL (GIT) AND MORE.**
 
-- 📫 How to reach me **buttshakir911@gmail.com**
+- 📫 Reach me at :  **buttshakir911@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/shakir-bhat-80b770159](https://www.linkedin.com/in/shakir-bhat-80b770159)
+- 📄 Know about my experiences : [https://www.linkedin.com/in/shakir-bhat-80b770159](https://www.linkedin.com/in/shakir-bhat-80b770159)
 
-- ⚡ Fun fact **Always in Learning-Mode**
+- ⚡ Fun fact : **Always in Learning-Mode**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
