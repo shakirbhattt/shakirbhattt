@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [www.github.com/shakirbhattt](www.github.com/shakirbhattt)
 
-- 💬 Ask me about **ClouD (AWS, AZURE) , DEVOPS(JENKIS, KUBERNETES, DOCKER, NAGIOS, SELENIUM) , VERSION CONTROL (GIT) AND MORE.**
+- 💬 Ask me about **ClOUD (AWS, AZURE) , DEVOPS(JENKIS, KUBERNETES, DOCKER, NAGIOS, SELENIUM) , VERSION CONTROL (GIT) AND MORE.**
 
 - 📫 How to reach me **buttshakir911@gmail.com**
 
