@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shakir Bhat</h1>
-<h3 align="center">A guy who is passionate about cloud, dev0ps and infra services having 2+ Years Exp. in IT field.</h3>
+<h3 align="center">A guy who is passionate about Cloud, Dev0ps and Infra services having 2+ Years Exp. in IT field.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakirbhattt&label=Profile%20views&color=0e75b6&style=flat" alt="shakirbhattt" /> </p>
 
