@@ -10,7 +10,7 @@
 <a href="https://dev.to/shakirbhattt" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>  
-  
+
 
 
 
@@ -20,8 +20,13 @@
 
 <br/>  
 
+👨‍💻 Technical Skills
 
-## Rapidfire  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg) ![Linux](https://img.shields.io/badge/Linux-FCC624) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg) ![Python](https://img.shields.io/badge/python-3670A0) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg) 
+
+
+
+## ABOUT ME 
 <table><tr><td valign="top" width="50%">
 
 - 🖥️ Senior SRE at INMOBI  
