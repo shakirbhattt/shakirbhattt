@@ -20,7 +20,7 @@
 
 <br/>  
 
-##👨‍💻 Technical Skills
+## 👨‍💻 Technical Skills
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg) ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg) ![Linux](https://img.shields.io/badge/Linux-FCC624) ![BASH](https://img.shields.io/badge/BASH-%23121011.svg) ![Git](https://img.shields.io/badge/Git-3670A0) ![Jenkins](https://img.shields.io/badge/Jenkins-%235835CC.svg) ![Promotheus/Grafana](https://img.shields.io/badge/Promotheus/Grafana-%23FF9900.svg) ![Docker](https://img.shields.io/badge/Docker-%230072C6.svg) ![Kubermetes](https://img.shields.io/badge/Kubernetes-FCC624) ![Ansible](https://img.shields.io/badge/Ansible-%23121011.svg) ![Terraform](https://img.shields.io/badge/Terraform-3670A0) ![Networking](https://img.shields.io/badge/Networking-%235835CC.svg) ![Argo-CD](https://img.shields.io/badge/Argo-CD-%23FF9900.svg)
 
