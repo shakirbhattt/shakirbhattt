@@ -22,7 +22,7 @@
 
 👨‍💻 Technical Skills
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg) ![Linux](https://img.shields.io/badge/Linux-FCC624) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg) ![Python](https://img.shields.io/badge/python-3670A0) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg) ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg) ![Linux](https://img.shields.io/badge/Linux-FCC624) ![Shell Script](https://img.shields.io/badge/BASH-%23121011.svg) ![Python](https://img.shields.io/badge/Python-3670A0) ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg) 
 
 
 
