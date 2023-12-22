@@ -10,6 +10,9 @@
 <a href="https://dev.to/shakirbhattt" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>  
+<a href="https://medium.com/@shakirbhattt" target="_blank">
+<img src=https://img.shields.io/badge/Medium-%2308090A.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>  
 
 
 
