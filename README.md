@@ -2,7 +2,7 @@
 
 ### A guy who is passionate about Cloud, DevOps and Infra services having 4+ Years of experience in IT field. 
   
-## 📬 Connect With ME  :
+## 📬 Connect  :
 
 <a href="https://github.com/shakirbhattt" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
