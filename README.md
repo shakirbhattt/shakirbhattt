@@ -30,7 +30,7 @@
 ## ABOUT ME 
 <table><tr><td valign="top" width="50%">
 
-- 🖥️ Senior SRE at INMOBI  
+- 🖥️ SRE at DIGICERT  
   
 
 - 🔮 Ask me about related to LINUX , CLOUD ( Azure, AWS ) , DEVOPS ( Git, Jenkins, Ansible, Terraform, K8's , Docker, Prometheus, Bash) and more.  
