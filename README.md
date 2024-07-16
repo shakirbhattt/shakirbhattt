@@ -45,7 +45,7 @@
 - 📄 Know about my experiences : https://www.linkedin.com/in/shakir-bhat-80b770159  
   
 
-- Reach me at : buttshakir911@gmail.com  
+- Reach me at : shakirbhatpc@gmail.com  
   
 
 - ⚡ Always in Learning-Mode  
