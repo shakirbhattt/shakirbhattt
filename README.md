@@ -33,7 +33,7 @@
 - 🖥️ SRE at DIGICERT  
   
 
-- 🔮 Ask me about related to LINUX , CLOUD ( Azure, AWS ) , DEVOPS ( Git, Jenkins, Ansible, Terraform, K8's , Docker, Prometheus, Bash) and more.  
+- 🔮 Ask me anything related to LINUX , CLOUD ( Azure, AWS ) , DEVOPS ( Git, Jenkins, Ansible, Terraform, K8's , Docker, Prometheus, Bash) and more.  
   
 
 - 🌱 I’m currently learning DEVSECOPS  
