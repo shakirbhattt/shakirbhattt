@@ -104,13 +104,6 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Highlights
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/shakirbhattt?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/shakirbhattt?style=for-the-badge" />
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=shakirbhattt&theme=dark&hide_border=true" />
 </p>
