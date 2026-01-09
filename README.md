@@ -104,10 +104,15 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Highlights
+
 <p align="center">
-  <img src="https://img.shields.io/github/followers/shakirbhattt?label=Followers&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/shakirbhattt?label=Stars&style=for-the-badge" />
-  <img src="https://img.shields.io/github/repos/shakirbhattt?label=Public%20Repos&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/shakirbhattt?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/shakirbhattt?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shakirbhattt&theme=dark&hide_border=true" />
 </p>
 
 ---
