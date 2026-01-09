@@ -103,8 +103,11 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shakirbhattt&theme=github-dark&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/shakirbhattt?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/shakirbhattt?style=for-the-badge" />
+  <img src="https://img.shields.io/github/repos/shakirbhattt?style=for-the-badge" />
 </p>
 
 ---
