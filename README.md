@@ -105,14 +105,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=shakirbhattt&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"
-    width="48%"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakirbhattt&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"
-    width="48%"
-  />
+  <img src="https://img.shields.io/github/followers/shakirbhattt?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/shakirbhattt?label=Stars&style=for-the-badge" />
+  <img src="https://img.shields.io/github/repos/shakirbhattt?label=Public%20Repos&style=for-the-badge" />
 </p>
 
 ---
