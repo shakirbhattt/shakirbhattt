@@ -34,7 +34,8 @@
 
 ## 🧰 Tech Stack & Tools
 
-### ☁️ Cloud Platforms
+### ☁️ Cloud & Platforms
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat&logo=microsoftazure&logoColor=white)
 
@@ -74,7 +75,8 @@
 
 ### 🌐 Networking & Platform
 ![F5](https://img.shields.io/badge/F5-CC0000?style=flat&logo=f5&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
+![BlueCat DNS](https://img.shields.io/badge/BlueCat%20DNS-005EB8?style=flat&logo=icloud&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-TCP/IP%20%7C%20DNS%20%7C%20DHCP%20%7C%20SSL/TLS-blue?style=flat)
 
 ---
 
