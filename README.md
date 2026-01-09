@@ -15,7 +15,7 @@
 - 👨‍💻 **SRE with 5+ years of experience** in Cloud, DevOps & Infrastructure  
 - 🖥️ Currently working as **Site Reliability Engineer @ DigiCert**  
 - ☁️ Hands-on with **AWS & DEVOPS **
-- 📊 Strong focus on **Observability, Monitoring & Incident Management**
+- 📊 Strong focus on **Observability, Automation, CICD,  Incident Management**
 - 🔐 Exploring **DevSecOps & Platform Engineering**
 - ⚡ Motto: *Automate everything that repeats twice*
 
