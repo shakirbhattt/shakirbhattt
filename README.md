@@ -59,6 +59,7 @@
 ### 📦 Infrastructure as Code & Config
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-000000?style=flat&logo=ansible&logoColor=white)
+![SaltStack](https://img.shields.io/badge/SaltStack-00EACE?style=flat&logo=saltstack&logoColor=black)
 ![HashiCorp Vault](https://img.shields.io/badge/Vault-000000?style=flat&logo=vault&logoColor=white)
 
 ---
