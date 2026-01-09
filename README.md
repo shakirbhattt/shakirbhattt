@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm **Shakir Bhat**
-### ☁️ Site Reliability Engineer | Cloud • DevOps • Observability  
+### ☁️ Site Reliability Engineer | Cloud | DevOps 
 📍 Kashmir, India 🍁
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=650&lines=Building+Reliable+Systems;SRE+%7C+Cloud+%7C+DevOps;Observability+%7C+Automation;Always+Learning+%F0%9F%9A%80" />
@@ -12,9 +12,9 @@
 
 ## 🚀 About Me
 
-- 👨‍💻 **SRE with 4+ years of experience** in Cloud, DevOps & Infrastructure  
+- 👨‍💻 **SRE with 5+ years of experience** in Cloud, DevOps & Infrastructure  
 - 🖥️ Currently working as **Site Reliability Engineer @ DigiCert**  
-- ☁️ Hands-on with **AWS & Azure**
+- ☁️ Hands-on with **AWS & DEVOPS **
 - 📊 Strong focus on **Observability, Monitoring & Incident Management**
 - 🔐 Exploring **DevSecOps & Platform Engineering**
 - ⚡ Motto: *Automate everything that repeats twice*
@@ -89,7 +89,7 @@
 - 📊 Build **end-to-end observability** (New Relic, Prometheus, Splunk)
 - 🔥 Incident response, RCA & reliability improvements
 - ⚙️ CI/CD pipelines with **Jenkins + Git + Helm**
-- 📦 Infra provisioning via **Terraform + VMware**
+- 📦 Infra provisioning via **SALT + VMware**
 - 🔐 Secrets management using **HashiCorp Vault**
 - 🧠 API monitoring & service health tracking
 
