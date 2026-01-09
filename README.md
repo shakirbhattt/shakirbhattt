@@ -103,9 +103,8 @@
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shakirbhattt&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=shakirbhattt&theme=github-dark&hide_border=true" />
 </p>
 
 ---
