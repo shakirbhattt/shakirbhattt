@@ -4,6 +4,12 @@
 ### ☁️ Site Reliability Engineer | Cloud • DevOps • Observability  
 📍 Kashmir, India 🍁
 
+<div align="center">
+  <img src="https://github.com/shakirbhattt/Shakir-Bhat-Portfolio/blob/main/Passport%20Pic.JPG?raw=true"
+       width="180"
+       style="border-radius: 50%;" />
+</div>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=650&lines=Building+Reliable+Systems;SRE+%7C+Cloud+%7C+DevOps;Observability+%7C+Automation;Always+Learning+%F0%9F%9A%80" />
 
 </div>
