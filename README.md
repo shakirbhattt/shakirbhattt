@@ -109,6 +109,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/shakirbhattt?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=shakirbhattt&style=flat-square&color=blue"/>
   <img src="https://img.shields.io/github/stars/shakirbhattt?style=for-the-badge" />
 </p>
 
@@ -120,7 +121,7 @@
 - 💼 **LinkedIn**: https://www.linkedin.com/in/shakir-bhat-80b770159  
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=shakirbhattt&style=flat-square&color=blue"/>
+
 </p>
 
 ---
