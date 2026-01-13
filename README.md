@@ -16,7 +16,7 @@
 - 🖥️ Currently working as **Site Reliability Engineer @ DigiCert**  
 - ☁️ Hands-on with **AWS & DEVOPS **
 - 📊 Strong focus on **Observability, Automation, CICD,  Incident Management**
-- 🔐 Exploring **DevSecOps & Platform Engineering**
+- 🔐 Exploring **Platform Engineering & AI Agents**
 - ⚡ Motto: *Automate everything that repeats twice*
 
 ---
