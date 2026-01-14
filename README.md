@@ -1,12 +1,36 @@
 <div align="center">
 
-# 👋 Hi, I'm **Shakir Bhat**
-### ☁️ Site Reliability Engineer | Cloud | DevOps 
-📍 Srinagar, Kashmir 🍁
+<h1>👋 Hi, I'm <span style="color:#38BDF8">Shakir Bhat</span></h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=650&lines=Building+Reliable+Systems;SRE+%7C+Cloud+%7C+DevOps;Observability+%7C+Automation;Always+Learning+%F0%9F%9A%80" />
+<h3>☁️ Site Reliability Engineer • Cloud • DevOps</h3>
+
+<p>
+📍 <strong>Srinagar, Kashmir</strong> 🍁 <br/>
+⚙️ Building scalable, reliable & observable systems
+</p>
+
+<img 
+  src="https://readme-typing-svg.herokuapp.com?
+  font=Fira+Code
+  &size=24
+  &duration=3000
+  &pause=800
+  &center=true
+  &vCenter=true
+  &width=750
+  &lines=Designing+Resilient+Kubernetes+Platforms;
+  SRE+%7C+Cloud+%7C+DevOps+Engineering;
+  Automation+%7C+Observability+%7C+Reliability;
+  Turning+Incidents+Into+Improvements+🚀"
+  alt="Typing SVG"
+/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,terraform,ansible,jenkins,linux,grafana,prometheus,git" />
 
 </div>
+
 
 ---
 
