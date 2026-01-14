@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **Shakir Bhat**
 ### ☁️ Site Reliability Engineer | Cloud | DevOps 
-📍 Kashmir, India 🍁
+📍 Srinagar, Kashmir 🍁
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=650&lines=Building+Reliable+Systems;SRE+%7C+Cloud+%7C+DevOps;Observability+%7C+Automation;Always+Learning+%F0%9F%9A%80" />
 
