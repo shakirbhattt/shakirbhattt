@@ -38,49 +38,25 @@
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat&logo=microsoftazure&logoColor=white)
-
----
-
-### ⚙️ DevOps & SRE
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-
----
-
-### 🐳 Containers & Orchestration
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-FE4C61?style=flat&logo=argo&logoColor=white)
-
----
-
-### 📦 Infrastructure as Code & Config
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-000000?style=flat&logo=ansible&logoColor=white)
 ![SaltStack](https://img.shields.io/badge/SaltStack-00EACE?style=flat&logo=saltstack&logoColor=black)
 ![HashiCorp Vault](https://img.shields.io/badge/Vault-000000?style=flat&logo=vault&logoColor=white)
-
----
-
-### 📊 Monitoring, Logging & Observability
 ![New Relic](https://img.shields.io/badge/NewRelic-008C99?style=flat&logo=newrelic&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
-
----
-
-### 🌐 Networking
 ![F5](https://img.shields.io/badge/F5-CC0000?style=flat&logo=f5&logoColor=white)
 ![BlueCat DNS](https://img.shields.io/badge/BlueCat%20DNS-005EB8?style=flat&logo=icloud&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-TCP/IP%20%7C%20DNS%20%7C%20DHCP%20%7C%20SSL/TLS-blue?style=flat)
-
----
-
-### 🔌 APIs & Artifacts
 ![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=flat)
 ![Nexus](https://img.shields.io/badge/Nexus-1B1C30?style=flat&logo=sonatype&logoColor=white)
 
