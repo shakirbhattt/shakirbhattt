@@ -89,7 +89,7 @@
   <img src="https://img.shields.io/github/stars/shakirbhattt?style=for-the-badge" />
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kamran-7&show_icons=true&theme=radical">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=shakirbhattt&show_icons=true&theme=radical">
 
 ---
 
