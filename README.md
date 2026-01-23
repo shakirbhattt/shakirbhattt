@@ -83,16 +83,14 @@
 
 ## 📊 GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=shakirbhattt&show_icons=true&theme=radical">
 
 <p align="left">
   <img src="https://img.shields.io/github/followers/shakirbhattt?style=for-the-badge" />
-  <img src="https://img.shields.io/github/following/shakirbhattt?style=for-the-badge" />
   <img src="https://komarev.com/ghpvc/?username=shakirbhattt&style=for-the-badge"/>
   <img src="https://img.shields.io/github/stars/shakirbhattt?style=for-the-badge" />
 </p>
 
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=shakirbhattt&show_icons=true&theme=radical">
 
 ---
 
