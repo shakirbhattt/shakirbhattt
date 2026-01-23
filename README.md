@@ -89,6 +89,8 @@
   <img src="https://img.shields.io/github/stars/shakirbhattt?style=for-the-badge" />
 </p>
 
+<a href="http://linkedin.com/in/kamran-sharief-485502203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kamran Sharief" height="35" width="40" /></a>
+
 ---
 
 ## 📫 Contact
