@@ -83,7 +83,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/github/followers/shakirbhattt?style=for-the-badge" />
   <img src="https://komarev.com/ghpvc/?username=shakirbhattt&style=for-the-badge"/>
   <img src="https://img.shields.io/github/stars/shakirbhattt?style=for-the-badge" />
