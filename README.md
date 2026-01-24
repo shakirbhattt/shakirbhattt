@@ -24,6 +24,7 @@
 ## 🔗 Connect With Me
 
 <p align="center">
+<a href="https://shakirbhattt.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome"/></a>
 <a href="https://github.com/shakirbhattt"><img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github"/></a>
 <a href="https://linkedin.com/in/shakir-bhat-80b770159"><img src="https://img.shields.io/badge/LinkedIn-1E77B5?style=for-the-badge&logo=linkedin"/></a>
 <a href="https://dev.to/shakirbhattt"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to"/></a>
